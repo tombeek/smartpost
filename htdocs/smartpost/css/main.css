@@ -1,0 +1,142 @@
+* {
+	font-size: 18px;
+	font-family: Optima, sans-serif;
+}
+
+#main {
+	margin-top: 2px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	margin-top: 5px;
+}
+.head {
+	font-size: 18px;
+	font-family: Optima, "Lucida Grande", Verdana, Arial, sans-serif;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-left: 30px;
+}
+#content {
+	margin: 20px;
+}
+#auth {
+	font-size: 18px;
+	font-family: Optima;
+	line-height: 2em;
+	margin-left: 240px;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-top: 105px;
+	padding: 15px;
+	border-width: 3px;
+	border-style: groove;
+	border-color: #777777;
+	border-radius: 10px; ;
+	width: 250px;
+}
+
+#button {
+	font-size: 14px;
+	margin: 10px 0px 0px 100px;
+}
+
+.quote {
+	color: #01014e;
+	margin-bottom: 1cm;
+	text-align: left;
+	font-size: 14px;
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+}
+.quote:first-line {
+	
+	font-size: larger;
+	
+	font-weight: bold;
+	
+}
+#links {
+	line-height: 1.5em;
+	font-size: 18px;
+	font-family: Optima, "Lucida Grande", Verdana, Arial, sans-serif;
+	margin-top: 5px;
+	margin-left: 50px;
+}
+
+#autosalesreps_top {
+	height: 118px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/autosalesrep.gif);
+	cursor: pointer;
+}
+#autosalesreps_banner {
+	height: 95px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/autobanner.gif);
+}
+#hirecashiers_top {
+	height: 118px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/hirecashiers.gif);
+	cursor: pointer;
+}
+#hirecashiers_banner {
+	height: 95px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/retailban.gif);
+}
+#hiretellers_top {
+	height: 118px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/hiretellers.gif);
+	cursor: pointer;
+}
+#hiretellers_banner {
+	height: 95px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/hiretellerban.gif);
+}
+#index_top {
+	height: 150px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/BannerHead_150.gif);
+	cursor: pointer;
+}
+#index_banner {
+	height: 85px;
+	width: 510px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/Experience.gif);
+}
+#salesrepsnow_top {
+	height: 118px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/hiresalesrep.gif);
+	cursor: pointer;
+}
+#salesrepsnow_banner {
+	height: 95px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(http://www.bullethire.com/images/salesrepbanner.gif);
+}
+#valid {
+	margin-top: 200px;
+}
+/*
++----------------------------------+
+|  __   __   __                    |
+| /  ` /__` /__`   by: Thomas Beek |
+| \__, .__/ .__/                   |
++----------------------------------+
+*/
